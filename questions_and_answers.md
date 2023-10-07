@@ -18,7 +18,8 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: 
+Since the variable has been declared but no value has been assigned to curly Bracket, the output will be empty curly bracket.
 
 <i>Write your explanation here</i>
 
